@@ -19,13 +19,15 @@ This portfolio regroups all the Data Science and Analysis projects I work on. It
 
 ## Projects
 
-<img align="left" width="250" height="250" src="illustrations/homeexchange_slack.jpg"> **[project title](https://github.com/ctherreau/HomeExchange)**
+<img align="left" width="250" height="250" src="illustrations/homeexchange_slack.jpg"> **[HomeExchange Churn Analysis](https://github.com/ctherreau/HomeExchange)**
 
 HomeExchange is a popular alternative to Airbnb that enables house swapping. HomeExchange aims to understand the reasons behind customer churn. 
 In this project I have used SQL, Python, WebScrapping and Classification algorithms to understand why users are not re-subscrite from the platform and profide some recommendation to HomeExchange. 
 
 
 #
+
+
 
 TO ADD (API) 
 <img align="left" width="250" height="250" src="image.jpg"> **[project title](githublink)**
