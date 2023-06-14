@@ -28,11 +28,11 @@ In this project I have used SQL, Python, WebScrapping and Classification algorit
 #
 
 
+<img align="left" width="250" height="250" src="illustrations/homeexchange_slack.jpg"> **[HomeExchange Churn Analysis](https://github.com/ctherreau/HomeExchange)**
 
-TO ADD (API) 
-<img align="left" width="250" height="250" src="image.jpg"> **[project title](githublink)**
+HomeExchange is a popular alternative to Airbnb that enables house swapping. HomeExchange aims to understand the reasons behind customer churn. 
+In this project I have used SQL, Python, WebScrapping and Classification algorithms to understand why users are not re-subscrite from the platform and profide some recommendation to HomeExchange. 
 
-DESCRIPTION 
 
 
 #
