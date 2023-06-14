@@ -1,4 +1,4 @@
-# Chloe Therrea - Data Science and Analysis Portfolio
+# Chloe Therreau - Data Science and Analysis Portfolio
 
 ## Quick introduction 
 
