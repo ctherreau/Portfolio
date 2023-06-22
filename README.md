@@ -36,7 +36,7 @@ Air quality has an impact on health. Indoor air quality (IAQ) and outdoor air qu
 #
 
 ### 2020
-<img align="left" width="155" height="155" src="illustrations/amas_ball.jpg"> **[Thesis work - Particle Physics](https://github.com/ctherreau/)** 
+<img align="left" width="155" height="145" src="illustrations/amas_ball.jpg"> **[Thesis work - Particle Physics](https://github.com/ctherreau/)** 
 
 Unfortunately, I cannot share all the codes I have produced for my thesis due to confidentiality reasons. However, I can show you a very small part of my thesis work that specifically involves a clustering algorithm. This code is used for the implementation of Chapter 6.5.2 of my thesis, which you can read [here](https://theses.hal.science/tel-02926324).
 
