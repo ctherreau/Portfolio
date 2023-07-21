@@ -22,7 +22,7 @@ This portfolio regroups all the Data Science and Analysis projects I work on. It
 
 #
 
-<img align="left" width="160" height="100" src="illustrations/data.jpg"> **[Challenge / Interview Exercice](https://github.com/ctherreau)**
+<img align="left" width="160" height="100" src="illustrations/data.jpg"> **[Challenge / Interview Exercices](https://github.com/ctherreau/ChallengeExercise)**
 
 Within this folder, you will find a compilation of challenges and interview exercises that I have completed.
 
