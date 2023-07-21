@@ -20,6 +20,16 @@ This portfolio regroups all the Data Science and Analysis projects I work on. It
 ## Projects
 ### 2023
 
+#
+
+<img align="left" width="160" height="160" src="illustrations/data.jpg"> **[Challenge / Interview Exercice](https://github.com/ctherreau)**
+
+Within this folder, you will find a compilation of challenges and interview exercises that I have completed.
+
+
+#
+
+
 <img align="left" width="160" height="160" src="illustrations/homeexchange_slack.jpg"> **[HomeExchange Churn Analysis](https://github.com/ctherreau/HomeExchange)**
 
 HomeExchange is a popular alternative to Airbnb that enables house swapping. HomeExchange want to understand the reasons behind customer churn. 
